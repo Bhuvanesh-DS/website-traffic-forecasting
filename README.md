@@ -49,8 +49,7 @@ Predicting website traffic helps businesses plan server capacity, marketing camp
 
 | Model | MAE | RMSE |
 |---|---|---|
-| ARIMA(5,1,0) | *(update with your value)* | *(update with your value)* |
-| Random Forest | *(update with your value)* | *(update with your value)* |
+| Random Forest | 331.77610599078344 | 432.0161051470785 |
 
 > Run the notebook to get your exact metric values and update this table.
 
